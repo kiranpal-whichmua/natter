@@ -1,4 +1,4 @@
-# cypress-template
+# natter
 
 ## Installation
 
