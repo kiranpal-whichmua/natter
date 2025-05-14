@@ -22,22 +22,7 @@ require('./commands');
 import 'cypress-localstorage-commands';
 
 before(() => {
-  // cy.clearCookies;
-  // cy.clearLocalStorage;
-  // cy.clearLocalStorageSnapshot();
-  // cy.log('Local storage is cleared!');
   Cypress.on('uncaught:exception', () => {
     return false;
   });
-});
-
-beforeEach(() => {
-  // cy.setLocalStorage('key', 'value');
-  // cy.setCookie('key', 'value');
-  // cy.restoreLocalStorage();
-});
-
-afterEach(() => {
-  // cy.saveLocalStorage();
-  // cy.log('Local storage is saved!');
 });

@@ -17,7 +17,3 @@ The file 'package.json' contains the commands to run scripts, and these are all 
 
 1. `cypress:test` Opens the Cypress Test Runner
 2. `cypress:all` Runs the feature file(s) with specified tags in a Chrome browser. Specify tags within "TAGS=" and "--tag" prior to running
-<br>
-<br>
-<br>
-*Last updated: 21st February 2022*

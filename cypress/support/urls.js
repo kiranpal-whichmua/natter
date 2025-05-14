@@ -1,6 +1,6 @@
 class PageUrls {
-  duckDuckGoPage () {
-    return 'https://duckduckgo.com';
+  agoraVideoCallPage () {
+    return 'https://webdemo.agora.io/basicVideoCall/index.html';
   }
 }
 
